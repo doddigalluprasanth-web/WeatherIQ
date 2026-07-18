@@ -35,36 +35,17 @@ This project was independently designed and developed as part of my **Remote Web
 
 ## 📸 Project Preview
 
-> Add screenshots of your application here.
-
----
-
 ## 🚀 How to Run the Project
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/weather-iq.git
-   ```
 2. Open the project folder.
 3. Launch the `index.html` file in your browser.
 4. Search for any city to view its weather details.
 
 ---
 
-## 📂 Project Structure
 
-```text
-Weather-IQ/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│── images/
-└── README.md
-```
-
----
 
 ## 🎯 Learning Outcomes
 
